@@ -6,10 +6,10 @@
 
 
 <!-- Quote -->
-<p align="center">I would like to change the World but they won't give me the source code</p>
+<p align="center"> Welcome to my Github! </p>
   
   <!-- Social Network -->
-<h1 align="center">
+<!-- <h1 align="center">
 <a href="https://www.instagram.com/lunox.code/">
   <img align="center" 
        alt="Lunox's Instagram" 
@@ -44,7 +44,7 @@
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
   </a>
-</h1>
+</h1> -->
 
 
 
