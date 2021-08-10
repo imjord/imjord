@@ -63,11 +63,11 @@
   
   
   <code><img height="40" src="https://user-images.githubusercontent.com/82243498/128902272-75e7ba24-52e8-4c20-828a-59bd503cbfa5.gif"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146278-8ca90980-470c-11eb-90bd-8e20951c9146.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146335-3d170d80-470d-11eb-9fce-ff775c77b96b.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/82243498/128902565-17a889ef-cb62-40cd-a115-13f56f6d1eeb.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/82243498/128902655-ba8c1966-cd2d-4f76-a197-dcbdcd167dea.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/82243498/128902694-43c6a7a6-b0a6-4d60-b30c-365dbe6ddf7c.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/82243498/128902936-03fe35ea-192b-44d5-8ad5-baa9ebe67ab4.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/82243498/128902954-a8f4c95f-afc8-4089-a3fe-0f3615590049.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146218-b57ccf00-470b-11eb-8fcc-aa46cab9253f.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688411-345f7280-0bc7-11eb-9513-82e0452a81eb.png"></code>
