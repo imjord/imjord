@@ -79,6 +79,9 @@
 <p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
   
   <code><img height="40" src="https://user-images.githubusercontent.com/82243498/128903797-800bb86d-e793-44bd-86f4-8953dac78fe7.gif"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/82243498/128906935-4c8bb907-cf07-4286-8089-e1a7f6ff10bf.gif"></code>
+  
+  
   
   
   </p>
