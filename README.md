@@ -105,7 +105,7 @@
        alt='imjord's favorite languages" />
 </a>
   
-<a href="https://github.com/imjord">
+<a href="https://github.com/imjord"> 
   <img align="center"
        src="https://github-readme-stats.vercel.app/api?username=imjord&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
 </a>
